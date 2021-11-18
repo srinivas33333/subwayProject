@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,MAAM,CAAA;EACF,OAAO,EAAE,IAAI;CAEhB",
+    "sources": [
+        "styel.scss"
+    ],
+    "names": [],
+    "file": "styel.css"
+}
